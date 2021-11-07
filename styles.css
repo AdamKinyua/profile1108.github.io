@@ -1,31 +1,37 @@
 .body {
   background-color: #EBF5FB;
+  margin: 0;
 }
 
-
-
-.div_1 {
+/*.div_1 {
   background-color: #D4EFDF;
   height: 100px;
   padding: 10px;
   margin-left: 0px;
   margin-top: 0px;
+} */
+
+.yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: absolute;
 }
 
-.div_2 {
+.blue {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.red {
   background-color: red;
-  width: 200px;
-  height: 200px;
-}
-
-.div_3 {
-  background-color: green;
-  width: 200px;
-  height: 200px;
-}
-
-.div_4 {
-  background-color: violet;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left:200px;
+  top:200px;
 }
