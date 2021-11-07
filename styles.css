@@ -16,44 +16,16 @@
   background-color: red;
   width: 200px;
   height: 200px;
-  position: relative;
 }
 
 .div_3 {
   background-color: green;
-  margin-left: 200px;
   width: 200px;
   height: 200px;
-  position: relative;
-  bottom: 200px;
 }
 
 .div_4 {
   background-color: violet;
-  margin-left: 400px;
   width: 200px;
   height: 200px;
-  position: relative;
-  bottom: 400px;
-}
-
-.inline-block_1 {
-  background-color: yellow;
-  height: 200px;
-  width: 200px;
-  display: inline-block;
-}
-
-.inline-block_2 {
-  background-color: magenta;
-  height: 200px;
-  width: 200px;
-  display: inline-block;
-}
-
-.inline-block_3 {
-  background-color: orange;
-  height: 200px;
-  width: 200px;
-  display: inline-block;
 }
