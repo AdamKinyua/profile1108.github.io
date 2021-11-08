@@ -3,35 +3,38 @@
   margin: 0;
 }
 
-/*.div_1 {
-  background-color: #D4EFDF;
-  height: 100px;
-  padding: 10px;
-  margin-left: 0px;
-  margin-top: 0px;
-} */
 
-.yellow {
+.top-container {
+  padding: 20px;
+  text-align: center;
+  background-color: #D4EFDF;
+  position: relative;
+}
+
+.h1 {
+  padding: 20px;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  right:75px;
+}
+
+
+.middle-container {
   background-color: yellow;
   width: 100px;
   height: 100px;
-  position: absolute;
 }
 
-.blue {
+
+.bottom-container {
   background-color: blue;
   width: 100px;
   height: 100px;
-  position: absolute;
-  left: 100px;
-  top: 100px;
-}
-
-.red {
-  background-color: red;
-  width: 100px;
-  height: 100px;
-  position: absolute;
-  left:200px;
-  top:200px;
 }
