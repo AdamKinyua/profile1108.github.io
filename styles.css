@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-
+/*##############TOP CONTAINER#######################*/
 .top-container {
   padding: 20px;
   text-align: center;
@@ -11,30 +11,39 @@
   position: relative;
 }
 
-.h1 {
+h1 {
   padding: 20px;
   margin: 0;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-cloud {
   position: absolute;
-  left: 50px;
+  left: 400px;
+  top: 160px;
 }
 .bottom-cloud {
   position: absolute;
-  right:75px;
+  right:400px;
+  top: 50px;
 }
 
+/*###################MIDDLE CONTAINER#############################*/
 
 .middle-container {
-  background-color: yellow;
-  width: 100px;
-  height: 100px;
+
 }
 
+/*####################BOTTOM CONTAINER#############################*/
 
 .bottom-container {
-  background-color: blue;
-  width: 100px;
-  height: 100px;
+
 }
