@@ -37,6 +37,10 @@ h3 {
   top: 50px;
 }
 
+.profile-image {
+  width: 30%;
+}
+
 /*###################MIDDLE CONTAINER#############################*/
 
 .middle-container {
