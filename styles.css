@@ -17,16 +17,19 @@ h1 {
   margin: 50px auto 0px auto;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
+  color: #66BFBF;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   margin: 0 auto 0  auto;
+  color: #66BFBF;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
+  color: #11999E;
 }
 
 .top-cloud {
@@ -54,4 +57,8 @@ h3 {
 
 .bottom-container {
 
+}
+
+.footer-link {
+  color: #11999E;
 }
