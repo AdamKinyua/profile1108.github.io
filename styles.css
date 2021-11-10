@@ -17,14 +17,17 @@ h1 {
   margin: 50px auto 0px auto;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
+  line-height: 1;
   color: #66BFBF;
 }
+
 
 h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   margin: 0 auto 0  auto;
   color: #66BFBF;
+  font-weight: normal;
 }
 
 h3 {
@@ -32,32 +35,48 @@ h3 {
   color: #11999E;
 }
 
+/*IMAGES SECTION ######### IMAGES SECTION  ########## IMAGES SECTION*/
+
+.mountain {
+
+}
+
 .top-cloud {
   position: absolute;
   left: 400px;
-  top: 330px;
+  top: 300px;
 }
 .bottom-cloud {
   position: absolute;
   right:380px;
-  top: 80px;
+  top: 60px;
 }
 
 .profile-image {
-  width: 30%;
+  width: 15%;
 }
 
-/*###################MIDDLE CONTAINER#############################*/
-
-.middle-container {
-
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
+
+.chilli-img {
+  width: 25%;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
 
 /*####################BOTTOM CONTAINER#############################*/
-
-.bottom-container {
-
-}
 
 .footer-link {
   color: #11999E;
